@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang= "pt-br">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,
+    initial-scale=1.0">
+    <title> Meu primeiro site em repositório</title>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <hr>
+    <p> Fingiremos que aqui temos uma bela de uma grande mensagem filosófica, imaginar
+    é melhor por permitir que cada um crie sua prória mensagem.</p>
+</body>
+</html>
