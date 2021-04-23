@@ -1,6 +1,2 @@
 # Estudo
- Primeiro Repositório do curso git-github
-
- Ainda estou aprendendo a usar.
- 
- Testando remotamente.
+ _Alguns projetos feitos para concretizar o aprendizado._
